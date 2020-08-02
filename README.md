@@ -3,7 +3,7 @@ An implementation for discovering non-terminating inputs (NTI) for multi-path po
 
 Current version: v1.1<br/>
 Validated on platform: `Maple` 2020, macOS Catalina<br/>
-Latest modification: on Aug 2nd, 2020, by _Mingshuai Chen_, RWTH Aachen<br/>
+Latest modification: on Aug 2nd, 2020, by Mingshuai Chen, RWTH Aachen<br/>
 Corresponding e-mail: chenms@cs.rwth-aachen.de
 
 Comments and bug-reports are highly appreciated.
@@ -16,6 +16,6 @@ Comments and bug-reports are highly appreciated.
 
 3. The script `mpp2.mw` provides another more efficient implementation (Algorithm 2) which computes the NTI using Gröbner bases. Also, the same bunch of examples are enclosed in this script.
 
-4. With `Maple` pre-installed, using this procedure is quite straightforward: one can evaluate the entire worksheet by clicking `Evaluate` -> `Evaluate Worksheet`. Please refer to the embedded examples in case you encountered any issue when working on it.
+4. With `Maple` pre-installed, using this procedure is quite straightforward: one can evaluate the entire worksheet by clicking `Evaluate` &#8594; `Evaluate Worksheet`. Please refer to the embedded examples in case you encountered any issue when working on it.
 
 5. Again, any comments or bug-reports are highly appreciated. Enjoy.
