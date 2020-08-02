@@ -1,9 +1,9 @@
-# MPPs. 
+# MPPs<br/>
 An implementation for discovering non-terminating inputs (NTI) for multi-path polynomial programs (MPPs)
 
-Current version: v1.1. 
-Validated on platform: `Maple` 2020, macOS Catalina. 
-Latest modification: on Aug 2nd, 2020, by _Mingshuai Chen_, RWTH Aachen. 
+Current version: v1.1<br/>
+Validated on platform: `Maple` 2020, macOS Catalina<br/>
+Latest modification: on Aug 2nd, 2020, by _Mingshuai Chen_, RWTH Aachen<br/>
 Corresponding e-mail: chenms@cs.rwth-aachen.de
 
 Comments and bug-reports are highly appreciated.
