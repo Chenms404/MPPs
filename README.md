@@ -1,4 +1,4 @@
-# MPPs<br/>
+# MPPs
 An implementation for discovering non-terminating inputs (NTI) for multi-path polynomial programs (MPPs)
 
 Current version: v1.1<br/>
@@ -18,4 +18,4 @@ Comments and bug-reports are highly appreciated.
 
 4. With `Maple` pre-installed, using this procedure is quite straightforward: one can evaluate the entire worksheet by clicking `Evaluate` -> `Evaluate Worksheet`. Please refer to the embedded examples in case you encountered any issue when working on it.
 
-5. Again, any comments and bug-reports are highly appreciated. Enjoy.
+5. Again, any comments or bug-reports are highly appreciated. Enjoy.
